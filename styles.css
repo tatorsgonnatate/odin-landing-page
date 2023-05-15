@@ -215,9 +215,8 @@ a:hover {
 
 .sign-up {
     display: flex;
-    flex-wrap: wrap;
     padding: 35px 100px;
-    max-width: 1200px;
+    gap: 125px;
     border-radius: 10px;
 }
 
@@ -225,7 +224,7 @@ a:hover {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    flex: 2;
+    flex: 3;
     flex-flow: column nowrap;
 }
 
