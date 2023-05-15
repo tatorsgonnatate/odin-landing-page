@@ -18,7 +18,7 @@ a,
     background-color: #1F2937;
 }
 
-.info > h1,
+.info-left > h1,
 .button,
 .sign-up-left,
 a:hover {
@@ -86,16 +86,19 @@ a:hover {
 }
 
 .info {
-    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap-reverse;
 }
 .info-left {
     display: flex;
+    flex-direction: column;
     padding-left: 100px;
     flex:1
 }
 
 .info-right {
     display: flex;
+    flex-direction: column;
     padding-right: 100px;
     flex:1
 }
