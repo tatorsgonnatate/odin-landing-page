@@ -186,34 +186,57 @@ a {
 .container-four {
     display: flex;
     flex-direction: row;
-    padding: 50px;
-    border: 1px solid red;
-
+    justify-content: center;
+    padding:75px 50px;
 } 
 
 .sign-up {
+    display: flex;
     background-color: #3882F6;
-    box-sizing: border-box;
-    padding: 25px;
+    padding: 35px 100px;
     width: 80%;
     border-radius: 10px;
 }
 
-.sign-up > h1 {
+.sign-up-left {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex: 2;
+    flex-flow: column nowrap;
     color: #F9FAF8;
+}
+
+.sign-up-left >h1 {
     font-size: 20px;
     margin: 0;
 }
 
-.sign-up > p {
+.sign-up-left > p {
     font-size: 14px;
-    margin-top: 0;
+    margin-top: 5px;
+}
+
+.sign-up-right {
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    flex: 1;
 }
 
 .action {
     border: 2px solid #F9FAF8;
-    flex-shrink: none;
+}
 
+/*Footer*/
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937; 
+    color: #E5E7EB;
+    font-size: 10px;
+    font-weight: 300;
+    padding: 15px 100px 15px 100px;
 }
 
 
