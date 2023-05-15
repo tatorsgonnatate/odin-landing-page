@@ -83,6 +83,7 @@ a:hover {
     align-items: flex-start;
     padding-top: 75px;
     padding-bottom: 75px;
+    padding-left: 50px
 }
 
 .info {
@@ -92,7 +93,7 @@ a:hover {
 .info-left {
     display: flex;
     flex-direction: column;
-    padding-left: 100px;
+    padding-left: 50px;
     flex:1
 }
 
@@ -103,9 +104,8 @@ a:hover {
     flex:1
 }
 .info-image {
-    padding-left: 75px;
     flex-direction: column;
-    margin-left: auto;
+    padding-left: 50px;
 }
 
 .info > h1 {
