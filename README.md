@@ -5,7 +5,7 @@ This is my ladning page that I'm making on my journey throught The Odin Project.
 
 Usings Flex-box and Images from the creators below.
 
-Horses Ride Photo Credit ha11ok on Pixabay
+Horses Ride Photo Credit <a href="https://pixabay.com/photos/horses-ride-sunset-sun-rider-6002720/">ha11ok</a>on Pixabay
 
 Racoon Picture Credit Gary Bendig
 Photo by <a href="https://unsplash.com/@kris_ricepees?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gary Bendig</a> on <a href="https://unsplash.com/photos/6GMq7AGxNbE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
